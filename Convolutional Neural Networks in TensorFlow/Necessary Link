@@ -1,0 +1,13 @@
+Week - 1:
+
+> Kaggle Dogs v Cats dataset: https://www.kaggle.com/c/dogs-vs-cats
+
+Week - 2:
+
+> Different APIs at the Keras site here: https://keras.io/preprocessing/image/
+
+
+Week - 3:
+
+> For more on how to freeze/lock layers, explore the documentation, which includes an example using MobileNet architecture: https://www.tensorflow.org/tutorials/images/transfer_learning
+
