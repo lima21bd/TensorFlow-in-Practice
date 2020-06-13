@@ -8,3 +8,5 @@ Week - 2:
 > Tensorflow datasets: https://github.com/tensorflow/datasets
 > To download tf datasets on google colab write command - !pip install -q  tensorflow-datasets
 > Embedding Projector: https://projector.tensorflow.org/
+> IMDB movie review dataset (pre-tokenized): https://github.com/tensorflow/datasets/blob/master/docs/catalog/imdb_reviews.md
+
